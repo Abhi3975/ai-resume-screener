@@ -1,0 +1,9 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/ats-scoring/page": "/ats-scoring",
+  "/candidates/[id]/page": "/candidates/[id]",
+  "/candidates/page": "/candidates",
+  "/page": "/",
+  "/settings/page": "/settings"
+}
